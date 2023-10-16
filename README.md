@@ -1,4 +1,4 @@
-# Text Summarizer for Amazon reviews with Bi-LSTM and GPT-2 model
+# Text Summarizer for Amazon reviews with Bi-LSTM and GPT-2 models
 
 
 ## Pre-requisites
